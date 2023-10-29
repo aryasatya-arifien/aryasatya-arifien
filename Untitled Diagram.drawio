@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T01:50:06.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="vGGlGrb_An0JN1oCeIpj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T03:26:56.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IAiGk3cjPKAut45AdgJB" version="22.0.8" type="github">
   <diagram name="Page-1" id="Kc62rwCxeLzAcDJ4_W2b">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o488fmtiZktm5jhMPB9M-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o488fmtiZktm5jhMPB9M-1" target="o488fmtiZktm5jhMPB9M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-3" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="800" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o488fmtiZktm5jhMPB9M-5" target="o488fmtiZktm5jhMPB9M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-5" value="Cuci tangan probandus dengan sabun dan air mengalir, keringkan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o488fmtiZktm5jhMPB9M-7" target="o488fmtiZktm5jhMPB9M-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-7" value="Bersihkan jari manis tangan kiri dengan kapas alkohol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o488fmtiZktm5jhMPB9M-9" target="o488fmtiZktm5jhMPB9M-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-9" value="Tusuk jari manis tangan kiri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o488fmtiZktm5jhMPB9M-11" value="Teteskan darah pada kertas uji golongan darah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
